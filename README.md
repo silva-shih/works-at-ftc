@@ -1,2 +1,1 @@
-#intro
-ftc works on 2016 Apr. 
+2016 Apr / london

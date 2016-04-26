@@ -15,7 +15,7 @@ body {
   background-color: #fff1e0; }
 
 .reveal {
-  font-family:"Quicksand", Helvetica, sans-serif;
+  font-family:"Bitter",sans-serif;
   font-size: 36px;
   font-weight: normal;
   color: #000; }
@@ -41,7 +41,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #000;
-  font-family: "Quicksand", Helvetica, sans-serif;
+  font-family: "Bitter",sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
@@ -196,6 +196,12 @@ body {
   display: inline-block;
   font-size: 0.6em;
   line-height: 1.2em;
+  vertical-align: top; }
+
+.reveal supersmall {
+  display: inline-block;
+  font-size: 0.4em;
+  line-height: 1em;
   vertical-align: top; }
 
 .reveal small * {
